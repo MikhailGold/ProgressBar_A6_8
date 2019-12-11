@@ -1,10 +1,3 @@
-function dummy (arg) {
-	console.log(arg);
-}
-
-$("input[type=checkbox").change(dummy);
-
-const maxProgressBar = 100;
 let currentProgressBar = 0;
 let currentValueStr
 
